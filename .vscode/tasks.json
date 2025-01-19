@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "npm: watch",
+        "type": "npm",
+        "script": "watch",
+        "problemMatcher": [],
+        "detail": "Runs the watch script defined in package.json"
+      },
+      {
+        "type": "npm",
+        "script": "compile",
+        "group": "build",
+        "problemMatcher": [],
+        "label": "npm: compile",
+        "detail": "tsc"
+      }
+    ]
+  }
+  

@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "C:/Users/Admin/Desktop/leetcode helper/node_modules/bare-fs",
+    "cph.language.cpp.compile": "g++ -std=c++17 \"$fileName\" -o \"$fileNameWithoutExt\"",
+    "cph.language.cpp.run": "\"$fileNameWithoutExt\""
+}
