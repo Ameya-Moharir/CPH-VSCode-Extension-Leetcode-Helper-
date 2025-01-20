@@ -30,16 +30,20 @@ A VS Code extension that streamlines LeetCode problem-solving by automatically f
    git clone https://github.com/Ameya-Moharir/CPH-VSCode-Extension-Leetcode-Helper-.git
 
    # Navigate to the project directory
-   cd leetcode-helper
+   cd CPH-VSCode-Extension-Leetcode-Helper-
 
    # Install dependencies
    npm install
 
    # Build the extension
    npm run build
-   ```
 
-3. Install the extension in VS Code:
+   # Install the extension VS Code (the manual method is mentioned below)
+   code --install-extension leetcode-helper-1.0.0.vsix
+   ```
+   
+
+3. Install the extension in VS Code (Manual Method):
    - Open VS Code
    - Click on the Extensions icon in the left sidebar
    - Click on the three dots (⋯) at the top of the Extensions panel
