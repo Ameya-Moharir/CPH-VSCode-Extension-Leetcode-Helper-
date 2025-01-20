@@ -81,5 +81,9 @@
         "bridge": "node bridge-server.js",
         "build": "vsce package",
         "install-ext": "code --install-extension leetcode-helper-1.0.0.vsix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ameya-Moharir/CPH-VSCode-Extension-Leetcode-Helper-.git"
   }
 }
