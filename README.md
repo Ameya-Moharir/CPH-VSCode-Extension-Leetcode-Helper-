@@ -1,4 +1,4 @@
-# LeetCode Helper
+# LeetCode Helper (CPH VS Code Extension)
 
 A VS Code extension that streamlines LeetCode problem-solving by automatically fetching test cases, creating solution templates, and managing test cases - all within your VS Code environment. Test cases are stored in a format compatible with the Competitive Programming Helper (CPH) extension, allowing seamless integration with existing CPH workflows.
 
