@@ -26,6 +26,8 @@ A VS Code extension that streamlines LeetCode problem-solving by automatically f
 
 2. Clone the repository and build the extension:
    ```bash
+   git init
+   
    # Clone the repository
    git clone https://github.com/Ameya-Moharir/CPH-VSCode-Extension-Leetcode-Helper-.git
 
